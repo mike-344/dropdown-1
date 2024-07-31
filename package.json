@@ -1,16 +1,19 @@
 {
-  "name": "project-template",
+  "name": "@micksul/dropdown-menu",
   "version": "1.0.0",
-  "description": "",
+  "description": "A dropdown menu package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mike Sullivan",
   "license": "ISC",
   "devDependencies": {
+    "@eslint/js": "^9.8.0",
     "css-loader": "^7.1.2",
+    "eslint": "^9.8.0",
+    "globals": "^15.8.0",
     "html-webpack-plugin": "^5.6.0",
     "style-loader": "^4.0.0",
     "webpack": "^5.93.0",
